@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\nexusstore\\dal\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|solutionrelative:nexusstore\\dal\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|c:\\users\\dell\\onedrive\\desktop\\nexusstore\\nexusstore\\nexusstore\\ui\\frmpurchaseandsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|solutionrelative:nexusstore\\ui\\frmpurchaseandsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\nexusstore\\ui\\frmpurchaseandsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|solutionrelative:nexusstore\\ui\\frmpurchaseandsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\nexusstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6384B492-FFB7-489C-89C2-BEAF16E392E2}|NexusStore\\NexusStore.csproj|solutionrelative:nexusstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\Program.cs",
+              "RelativeDocumentMoniker": "NexusStore\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\Program.cs",
+              "RelativeToolTip": "NexusStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:32:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPurchaseAndSales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\UI\\frmPurchaseAndSales.cs",
+              "RelativeDocumentMoniker": "NexusStore\\UI\\frmPurchaseAndSales.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\UI\\frmPurchaseAndSales.cs [Design]",
+              "RelativeToolTip": "NexusStore\\UI\\frmPurchaseAndSales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:14:03.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPurchaseAndSales.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\UI\\frmPurchaseAndSales.cs",
+              "RelativeDocumentMoniker": "NexusStore\\UI\\frmPurchaseAndSales.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\UI\\frmPurchaseAndSales.cs*",
+              "RelativeToolTip": "NexusStore\\UI\\frmPurchaseAndSales.cs*",
+              "ViewState": "AgIAAEcAAAAAGGdmZmbmv08BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:14:20.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\DAL\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "NexusStore\\DAL\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\NexusStore\\NexusStore\\NexusStore\\DAL\\DGVPrinter.cs",
+              "RelativeToolTip": "NexusStore\\DAL\\DGVPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkPAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:09:09.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
