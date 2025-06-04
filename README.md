@@ -1,6 +1,6 @@
 # NexusStore - Billing and Inventory Management System Build in C# and MS SQL Server Management Studio 20
 
-This is a simple desktop application developed in microsoft platforme.
+This is a simple desktop application developed in microsoft platform.
 
 ## Tools and Technologies Used
 1. C# programming language in 3-tier architecture
